@@ -1,0 +1,23 @@
+gitgit hub id and passward 
+id = sagarabhang93@gmail.com
+password = PiNu19@$
+
+git download and install
+
+A.  create roject repo
+B.  open git bash
+C.   git config --global user.email "sagarabhang93@gmail.com"
+D.   git config --global user.name "Sagar2491993"    # it git username
+
+
+1. git init
+2. git status
+3. git add .
+4. git status
+5. git commit -m " file regarding commit"
+6. git branch -M main
+7. git remote add origin https://github.com/Sagar2491993/github.git  # (copy and paste)
+8. git push -u origin main
+
+
+
