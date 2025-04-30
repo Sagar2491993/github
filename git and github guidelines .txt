@@ -20,4 +20,15 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 8. git push -u origin main
 
 
+#########################################################################################
+# new file add in repo
+
+1. git status
+2. git add .
+3. git status
+4. git commit -m "git commit"
+5. git push -u origin main
+
+
+
 
