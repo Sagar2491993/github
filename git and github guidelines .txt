@@ -11,7 +11,7 @@ B.  open git bash
 C.   git config --global user.email "sagarabhang93@gmail.com"
 D.   git config --global user.name "Sagar2491993"    # it git username
 
-
+# first time comand
 1. git init
 2. git status
 3. git add .
@@ -24,6 +24,7 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # git and github connect 
 #########################################################################################
 # new file add in repo
+# first after comand
 
 1. git status
 2. git add .
@@ -49,6 +50,9 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # add remote github repo> ... > remote > add remote> git hub repo url paste > enter (show interminal in $git add repo)
                                > write remote name ie. origin
 # push file in repo = publish push otherwise (terminal in git push origin)
+
+#################################################################################################
+#
 
 
 
