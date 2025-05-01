@@ -6,7 +6,7 @@ git download and install
 
 
 
-A.  create roject repo
+A.  create roject repo   # https://github.com/Sagar2491993/github.git
 B.  open git bash
 C.   git config --global user.email "sagarabhang93@gmail.com"
 D.   git config --global user.name "Sagar2491993"    # it git username
