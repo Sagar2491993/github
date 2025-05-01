@@ -4,6 +4,8 @@ password = PiNu19@$
 
 git download and install
 
+
+
 A.  create roject repo
 B.  open git bash
 C.   git config --global user.email "sagarabhang93@gmail.com"
@@ -19,7 +21,7 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 7. git remote add origin https://github.com/Sagar2491993/github.git  # (copy and paste)
 8. git push -u origin main
 
-
+# git and github connect 
 #########################################################################################
 # new file add in repo
 
