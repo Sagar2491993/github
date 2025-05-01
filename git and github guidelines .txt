@@ -55,7 +55,7 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # crete parallel branch
 > github repo in create branch (master click write branch name after branck name click) 
 
-# maste move to branch = git checkout branch names
+# maste move to branch = > git checkout branch name
 
 
 
