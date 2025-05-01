@@ -31,6 +31,28 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 4. git commit -m "git commit"
 5. git push -u origin main   # git push (use only)
 
+##########################################################################################
+# vs code  and github connect
+
+# vs code in install = github pull request and issues
+# log in github in vs code = account > setting and synchrouns > sing with in github > continue > open github
+                            > account in show github log in 
+
+# create repo = vs code in source control > intionlize repository (create repo init in folder) 
+
+# so if any create fine and will be >source control notification
+                                    (commit the file means file in all changes share the in repository)
+                     > changes + (select file example git add .) > file select show the changes code before and after
+                     # (commit the file means file in all changes share the in repository)
+                     > commit msg > right sing (reall change in curent file in udating code)
+
+# add remote github repo> ... > remote > add remote> git hub repo url paste > enter (show interminal in $git add repo)
+                               > write remote name ie. origin
+# push file in repo = publish push otherwise (terminal in git push origin)
+
+
+
+
 
 
 
