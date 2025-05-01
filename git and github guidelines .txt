@@ -47,7 +47,7 @@ D.   git config --global user.name "Sagar2491993"    # it git username
                      # (commit the file means file in all changes share the in repository)
                      > commit msg > right sing (reall change in curent file in udating code)
 
-# add remote github repo> ... > remote > add remote> git hub repo url paste > enter (show interminal in $git add repo)
+# add remote github repo> ...click > remote > add remote> git hub repo url paste > enter (show interminal in $git add repo)
                                > write remote name ie. origin
 # push file in repo = publish push otherwise (terminal in git push origin)
 
@@ -55,7 +55,14 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # crete parallel branch
 > github repo in create branch (master click write branch name after branck name click) 
 
-# maste move to branch = git checkout branch names
+# maste move to branch = >
+                        > git branch  # o/p sagar , rushi
+                        > git checkout branch name # git checkout rushi (git checkout main)
+                        > git add file with commit and push
+
+# check pull request to master (rushi create PR) 
+
+
 
 
 
