@@ -1,1 +1,11 @@
 gkldfmh;lrmh;lgmh;lgf kmlfkglhlmkjgjncdbsassagra sopkasan avba,lajahLD;SL [E R  EKMLDMLDMFM, LDFMFM;LDMG,DGSMD; L';KQPOPOEQWOONDIWUJS;MWLNEW9DSPS,F jjhkjlllml;mljkjnknkn
+
+
+
+# add remote github repo> ... > remote > add remote> git hub repo url paste > enter (show interminal in $git add repo)
+                               > write remote name ie. origin
+# push file in repo = publish push otherwise (terminal in git push origin)
+
+#################################################################################################
+# crete parallel branch
+> github repo in create branch (master click write branch name after branck name click) 
