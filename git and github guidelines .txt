@@ -52,18 +52,55 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # push file in repo = publish push otherwise (terminal in git push origin)
 
 #################################################################################################
-# crete parallel branch
+# crete  branch and marge to master
 > github repo in create branch (master click write branch name after branck name click) 
 
-# maste move to branch = >
+# maste move to branch = >as
                         > git branch  # o/p sagar , rushi
-                        > git checkout branch name # git checkout rushi (git checkout main)
-                        > git add file with commit and push
+                        > git checkout branch name # git checkout rushi 
+                        > git add .
+                        > git commit -m "msg"
+                        > git push origin rushi
+# refresh github select > branch > compare pull request> 
+                                 > open pull request (Add a title,  Add a description) > creat pull request
+                                 > finish you review (commit , approvel, change request) > submit review
+# refresh > master select > file changes check in code (+ = add code,   - = reduce code) >  (code check in + (comment)) > add new comment (not use single comment)
+# after branch will be work again share again pull request  (2nd option (branch .pull request > new pull request > 
+                                                             edit 1st main, 2nd branch > cretae pull request > >open a pull request
+                                                             > add title , add descrition > create pull request)
+# maste approvel time > pull request> select pull file >check file changes ( any wrong to again reply otherwise )  > create marge commit ( checkout rushi through  git merge main)
+                                                       > close pull request
 
-# check pull request to master (rushi create PR) 
+
+#############################################################################################
+# externam repo delpoy in local system
+> pwd (present work directory)
+
+>   git config --global user.email "sagarabhang93@gmail.com"
+>   git config --global user.name "Sagar2491993"    # it git username
 
 
+> git clone paste external repo url
+  # work create new file , update code
 
+> git staus
+> git add.
+> git status
+
+> git commit -m "msg"
+> git push origin master
+
+###########################################################################################
+# ignore file means not share file in repo
+
+> git init
+> git status
+
+# ingone file not show in status
+      > create ile (.gitignore) > in the write ignore file name (i.e.  .log) but large files so direct use in *.log, *java, *py
+                                                folder ignore (1.e.  demo folder) .gitignore > demo/
+> git status check (in not ignore file )
+             
 
 
 
