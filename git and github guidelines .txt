@@ -65,8 +65,10 @@ D.   git config --global user.name "Sagar2491993"    # it git username
                                  > open pull request (Add a title,  Add a description) > creat pull request
                                  > finish you review (commit , approvel, change request) > submit review
 # refresh > master select > file changes check in code (+ = add code,   - = reduce code) >  (code check in + (comment)) > add new comment (not use single comment)
-# after branch will be work again share again pull request
-# maste approvel time > pull request> select pull file > any wrong to again reply otherwise > create marge commit ( checkout rushi through  git merge main)
+# after branch will be work again share again pull request  (2nd option (branch .pull request > new pull request > 
+                                                             edit 1st main, 2nd branch > cretae pull request > >open a pull request
+                                                             > add title , add descrition > create pull request)
+# maste approvel time > pull request> select pull file >check file changes ( any wrong to again reply otherwise )  > create marge commit ( checkout rushi through  git merge main)
                                                        > close pull request
 
 
