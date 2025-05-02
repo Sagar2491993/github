@@ -58,9 +58,11 @@ D.   git config --global user.name "Sagar2491993"    # it git username
 # maste move to branch = >as
                         > git branch  # o/p sagar , rushi
                         > git checkout branch name # git checkout rushi (git checkout main)
-                        > git add file with commit and push
-# refresh github select > branch 
-# check > pull request (rushi create PR) > commit behind (main) > edit 1st main, 2nd rudhi(branch) 
+                        > git add file with commit and 
+                         > git push origin rushi
+# refresh github select > branch > commit behind (main) > edit 1st main, 2nd rushi(branch)
+
+# pull request 
 
 
 
