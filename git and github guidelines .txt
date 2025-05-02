@@ -62,7 +62,7 @@ D.   git config --global user.name "Sagar2491993"    # it git username
                          > git push origin rushi
 # refresh github select > branch > commit behind (main) > edit 1st main, 2nd rushi(branch)
 
-# pull request 
+# pull request ,
 
 
 
