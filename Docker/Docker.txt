@@ -1,0 +1,85 @@
+Docker (devops hint marathi)
+
+introduction docker  =  
+1.  docker is one of the most popoular tools for containerization.
+2.  doctker containers are lightweight,  a single sever or virctual machine can run sereral container simultaneously.
+3.  docker implements hight level API to provide lightweight container that run processes in isoltion.
+
+what is Docker = 
+1.  docker is open platform for devloper and sysadins to build ship and run distributed application
+2.  main principle of docker are build anywhee ship anywhere, and run anywhere (any platform)
+3.  docker has a multiple components like docker engine, docker image, docker container and docker hub
+
+advantage s of Docker = 
+1. no pre-allocation of RAM
+2.  less cost
+3.  it is light weight
+4.  it can on pytsical H/W / virtual H/w or cloud
+5.  you can reuse the image
+
+Disadvantages of docker
+1.  Docker is a not good solution for application that requires rich GUI
+2.  difficlt to manage large amount of container
+3.  docker does not provide cross- platform compatibity
+4.  no solution for data recovery and backup
+
+Architecture of docker =
+                    [ Docker Host/server]    [Registry]
+client docker build  [ docker daemon         [ public,
+docker run            container,               private
+docker ship             imahe          ]              ]
+
+
+Docker file = 
+1. docker file is basically used for build the docker image
+2. dDocker file is a textfile and contains list of command (set of instruction)
+
+Docker Image  =
+1. Docker file is a read only file its used to excute code in a docker container
+2. to docker image as a container
+3. docker run hello world
+
+Docker container =
+1.  docker container are the solution of the problem how to get software to run reliably when move fro one 
+     one computing environment to another
+2.  docker container are lightweight and standalone
+3.  docker container runs on docker engine
+
+
+#################################################################################################################################################
+
+Docker install and download and install 
+
+note Aws install connect Docker by use (windows - putty)
+                                       (lunix - SSH)
+
+docker download windos64 
+   > Docker Destop installer.exe install in local system
+   > open cmd > check docker download (docker (enter))
+
+
+
+🐳 Common Docker Commands (Same on Linux and Windows)
+    | Task                                     | Command                                    |
+| ---------------------------------------- | ------------------------------------------ |
+| Check Docker version                     | `docker --version`                         |
+| Start Docker service (Linux only)        | `sudo systemctl start docker`              |
+| Pull an image                            | `docker pull <image>`                      |
+| Run a container                          | `docker run <options> <image>`             |
+| List running containers                  | `docker ps`                                |
+| List all containers (including stopped)  | `docker ps -a`                             |
+| Stop a container                         | `docker stop <container_id>`               |
+| Remove a container                       | `docker rm <container_id>`                 |
+| Remove an image                          | `docker rmi <image_id>`                    |
+| View images                              | `docker images`                            |
+| Build image from Dockerfile              | `docker build -t <tag> .`                  |
+| Execute a command in a running container | `docker exec -it <container_id> <command>` |
+| Open a shell inside a container          | `docker exec -it <container_id> /bin/bash` |
+
+
+Docker hub create account
+email - abhangsagar366@gmail.com
+username - abhang
+password = Sagar@366
+
+
